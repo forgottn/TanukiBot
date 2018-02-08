@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+~*/
+
+audio_cache/
+dectalk/
+config/
+
+discord.log
